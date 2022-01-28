@@ -1,2 +1,2 @@
 # PythonCoding
-This repository was made for the advancment and learning/relearning python basic and advanced features.
+This repository was made for the advancment and learning/relearning of python basic and advanced features.
